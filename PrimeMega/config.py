@@ -18,15 +18,15 @@ class Config(object):
    API_HASH = "32aa547bd6cc2e9f61063cd31e0bc0a5"
    TOKEN = "2109887867:AAFeWR4FuLX5gKOH5-xQzsrnyx-9ZYfTbGQ"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
    OWNER_ID = 1423479724  # If you dont know, run the bot and do /id in your private chat with it, also an integer
-   OWNER_USERNAME = "Tonic880"
-   SUPPORT_CHAT = "PrimeSupportGroup"  # Your own group for support, do not add the @
+   OWNER_USERNAME = "𝗪𝗬𝗭 𝗠𝗔𝗡𝗔𝗚𝗘𝗥"
+   SUPPORT_CHAT = "WyzSupport"  # Your own group for support, do not add the @
    JOIN_LOGGER = (
-        -1001376025003
+        -1001695332025
     )  # Prints any new group the bot is added to, prints just the name and ID.
    EVENT_LOGS = (
-        -1001376025003
+        -1001695332025
     )  # Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
-   ERROR_LOGS = -1001376025003
+   ERROR_LOGS = -1001695332025
     # RECOMMENDED
    SQLALCHEMY_DATABASE_URI = "postgresql://qpvhdjtv:4agaueN759QRvJOk6uaiOrobcAUC7_yP@rogue.db.elephantsql.com/qpvhdjtv"  # needed for any database modules
    LOAD = []
@@ -42,8 +42,8 @@ class Config(object):
    ARQ_API = "OCRCCG-ABFPZL-VCWOWW-MLLYOA-ARQ"
    ARQ_API_KEY = "OCRCCG-ABFPZL-VCWOWW-MLLYOA-ARQ"
    ARQ_API_URL = "https://arq.hamker.in"
-   BOT_NAME = "Prime Mega"
-   BOT_USERNAME = "PrimeMegaBot"
+   BOT_NAME = "𝗪𝗬𝗭 𝗠𝗔𝗡𝗔𝗚𝗘𝗥"
+   BOT_USERNAME = "wyzmanager"
    BOT_ID = "2109887867"
    OPENWEATHERMAP_ID = "22322"
    SIBYL_KEY = "1423479724:fnyIAV276tincXOQ1GkNr6NZ7g1yNOo245Meq8sk-N4wSOFGZHrefgn4jMaPtNYS"
