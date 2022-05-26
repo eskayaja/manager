@@ -1,12 +1,12 @@
 [tool.poetry]
-name = "PrimeMega"
+name = "𝗪𝗬𝗭 𝗠𝗔𝗡𝗔𝗚𝗘𝗥"
 version = "2.2"
 description = "Telegram group management bot"
 license = "GPL-3.0-or-later"
-authors = ["Prime Support"]
+authors = ["𝗪𝗬𝗭 𝗠𝗔𝗡𝗔𝗚𝗘𝗥"]
 readme = "README.md"
-homepage = "https://github.com/Toni880/managerrr#readme"
-repository = "https://github.com/Toni880/managerrr"
+homepage = "https://github.com/WHYFZN/manager#readme"
+repository = "https://github.com/WHYFZN/manager"
 keywords = ["chatbot", "bot", "python", "telegram-bot", "pyrogram"]
 classifiers = [
     "Environment :: Console",
