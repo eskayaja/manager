@@ -1,12 +1,12 @@
 {
-      "name": "Prime Mega",
+      "name": "𝗪𝗬𝗭 𝗠𝗔𝗡𝗔𝗚𝗘𝗥",
       "description": "A Powerful  Telegram group management bot with autobots theme.",
       "keywords": [
          "telegram",
          "advance",
          "group",
          "manager",
-         "Prime Mega"
+         "𝗪𝗬𝗭 𝗠𝗔𝗡𝗔𝗚𝗘𝗥"
       ],
     
    "logo":    "https://telegra.ph/file/1da0ff9b5983912852f83.jpg",  
@@ -69,11 +69,11 @@
       },
       "BOT_USERNAME": {
          "description": "username of your bot without the @",
-         "value": "PrimeMegaBot"
+         "value": "wyzmanager"
       },
       "BOT_NAME": {
          "description": "name of your bot",
-         "value": "Prime Mega"
+         "value": "𝗪𝗬𝗭 𝗠𝗔𝗡𝗔𝗚𝗘𝗥"
       },
       "BOT_ID": {
          "description": "to get your bot_id using other bot or userbot",
@@ -82,12 +82,12 @@
 
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "Bukan_guudlooking"
+         "value": "wyztod"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
          "required": true,
-         "value": "PrimeSupportGroup"
+         "value": "WyzSupport"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
@@ -115,7 +115,7 @@
       "JOIN_LOGGER": {
          "description": "A channel where bot will print who added it to what group, useful during debugging or spam handling.",
          "required": true,
-         "value": "-1001376025003"
+         "value": "-1001695332025"
       },      
       "CASH_API_KEY": {
          "description": "Required for currency converter. Get yours from https://www.alphavantage.co/support/#api-key",
@@ -209,7 +209,7 @@
       "DONATION_LINK": {
          "description": "Optional: link where you would like to receive donations. If you are a noob, better leave it linking to paul",
          "required": false,
-         "value": "https://www.paypal.me/PaulSonOfLars"
+         "value": "https://t.me/wyztod"
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
